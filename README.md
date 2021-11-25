@@ -1,24 +1,26 @@
 ### Hi, I'm Rogério... 👋
+:man_technologist: &nbsp; Civil Servant.
+<br>:bicyclist: &nbsp;I like to ride a bike.
+<br>:handshake:	&nbsp;I enjoy coding in pair to solve problems together with my co-workers, and I like sharing knowledge :brain: &nbsp; or learning from them.
+
+### Projects
+- [Algorithms implementation using TDD.](https://github.com/rogeriofonseca/algorithms)
+- [locadora-tdd](https://github.com/rogeriofonseca/locadora-tdd)
+- [forum-rest-api](https://github.com/rogeriofonseca/forum-alura)
 
 <div align="center">
   <a href="https://github.com/rogeriofonseca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriofonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriofonseca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-
-
-
-
 <!-- align="center" height="30" width="40" -->
-  
   <img align="center" alt="Rogerio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Rogerio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
