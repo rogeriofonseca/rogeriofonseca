@@ -3,10 +3,10 @@
 <br>:bicyclist: &nbsp;I like to ride a bike.
 <br>:handshake:	&nbsp;I enjoy coding in pair to solve problems together with my co-workers, and I like sharing knowledge :brain: &nbsp; or learning from them.
 
-### Projects
-- [Algorithms implementation using TDD.](https://github.com/rogeriofonseca/algorithms)
-- [locadora-tdd](https://github.com/rogeriofonseca/locadora-tdd)
-- [forum-rest-api](https://github.com/rogeriofonseca/forum-alura)
+### Projects :construction_worker:
+- :triangular_ruler: [Algorithms implementation using TDD.](https://github.com/rogeriofonseca/algorithms)
+- :white_check_mark: [locadora-tdd](https://github.com/rogeriofonseca/locadora-tdd)
+- :leaves: [forum-rest-api](https://github.com/rogeriofonseca/forum-alura)
 
 <div align="center">
   <a href="https://github.com/rogeriofonseca">
